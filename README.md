@@ -1,4 +1,4 @@
-# [Curso Práctico de Frontend Developer] de Platzi (https://platzi.com/cursos/frontend-developer-practico/) 
+# [Curso Práctico de Frontend Developer](https://platzi.com/cursos/frontend-developer-practico/) 
 
 <sub>_(Ctrl + Click or Middle-click to open in a new tab)_</sub>
 

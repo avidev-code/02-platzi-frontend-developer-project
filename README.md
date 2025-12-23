@@ -12,7 +12,7 @@ Donde he construido un proyecto completo de frontend, creando un diseño respons
 - Notas personales y recursos adicionales
 
 ## 📸 Vista previa
-![Captura del proyecto](...)
+![Captura del proyecto](./assets/img/yardsale-home-jpg.webp)
 
 ## 🛠️ Tecnologías utilizadas
 - HTML5
